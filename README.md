@@ -46,3 +46,11 @@ Este repositório contém um estudo de caso desenvolvido no **Power BI**, com fo
 - **Análise de Fluxo de Caixa**
 - **Análise de Fluxo de Caixa**
 
+---
+
+### 👩‍💻 Contato
+
+Estou disponível para propostas de emprego, auditorias de dados ou projetos relacionados à análise e visualização de dados. 
+Todos os meus contatos estão disponíveis na minha página inicial do GitHub: [beto86](https://github.com/beto86). 
+Sinta-se à vontade para visitar e entrar em contato!
+
